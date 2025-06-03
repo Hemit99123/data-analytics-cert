@@ -1,4 +1,5 @@
 Data: collection of facts
+<br>
 Data Analysis: processing of data to draw conclusions and make predictions (insights) which lead to actions
 
 
